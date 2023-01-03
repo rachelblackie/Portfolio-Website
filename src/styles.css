@@ -1,9 +1,17 @@
-h1 {
+h1,
+h2,
+h3,
+h4 {
   font-family: "Playfair Display", serif;
+  text-align: center;
 }
 p {
   font-family: "Poppins", serif;
+  text-align: center;
 }
 .hero {
   background-color: navajowhite;
+}
+.hero h2 {
+  font-family: "Poppins", serif;
 }
