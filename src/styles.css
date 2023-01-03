@@ -15,3 +15,6 @@ p {
 .hero h2 {
   font-family: "Poppins", serif;
 }
+.button {
+  margin: 0 auto;
+}
