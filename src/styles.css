@@ -26,4 +26,8 @@ p {
 }
 .content-heading {
   text-align: center;
+  padding-top: 20px;
+}
+.row {
+  padding-top: 15px;
 }
