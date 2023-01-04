@@ -21,6 +21,9 @@ p {
   border: 2px solid black;
   border-radius: 4px;
 }
+.button:hover {
+  color: #d299c2;
+}
 .content-heading {
   text-align: center;
 }
