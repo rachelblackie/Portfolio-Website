@@ -15,6 +15,7 @@ p {
 .hero h2 {
   font-family: "Poppins", serif;
   padding-top: 15px;
+  padding-bottom: 15px;
 }
 .button {
   background-color: #fef9d7;
