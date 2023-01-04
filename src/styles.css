@@ -8,7 +8,7 @@ p {
   font-family: "Poppins", serif;
 }
 .hero {
-  background-color: radial-gradient(
+  background: radial-gradient(
     879px at 10.4% 22.3%,
     rgb(255, 235, 238) 0%,
     rgb(186, 190, 245) 93.6%
