@@ -25,6 +25,7 @@ p {
 }
 .button:hover {
   color: #d299c2;
+  border: 2px solid #d299c2;
 }
 .content-heading {
   text-align: center;
