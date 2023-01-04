@@ -16,8 +16,9 @@ p {
   font-family: "Poppins", serif;
 }
 .button {
-  background-color: whitesmoke;
+  background-color: #fef9d7;
   padding: 15px 30px;
+  border: 4px solid black;
 }
 .content-heading {
   text-align: center;
