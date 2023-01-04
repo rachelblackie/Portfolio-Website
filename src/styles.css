@@ -31,6 +31,7 @@ p {
 .row {
   padding-top: 15px;
 }
-.row {
-  vertical-align: center;
+
+img {
+  vertical-align: middle;
 }
