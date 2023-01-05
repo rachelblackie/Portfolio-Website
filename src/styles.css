@@ -22,7 +22,7 @@ p {
   padding-bottom: 15px;
 }
 .button {
-  background-color: #fef9d7;
+  background-color: rgba(187, 187, 187, 0);
   padding: 15px 30px;
   border-radius: 4px;
 }
