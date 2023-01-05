@@ -8,7 +8,11 @@ p {
   font-family: "Poppins", serif;
 }
 .hero {
-  background: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);
+  background: linear-gradient(
+    359.3deg,
+    rgb(196, 214, 252) 1%,
+    rgba(187, 187, 187, 0) 70.9%
+  );
   text-align: center;
   padding: 160px 20px;
 }
