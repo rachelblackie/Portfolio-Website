@@ -24,8 +24,8 @@ p {
 .about-section {
   background: linear-gradient(
     359.3deg,
-    rgb(196, 214, 252) 1%,
-    rgba(187, 187, 187, 0) 70.9%
+    rgba(187, 187, 187, 0) 1%,
+    rgb(196, 214, 252) 70.9%
   );
 }
 .hero h2 {
