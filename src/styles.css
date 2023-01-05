@@ -21,6 +21,13 @@ p {
   text-align: center;
   padding: 160px 20px;
 }
+.about-section-container {
+  background: linear-gradient(
+    359.3deg,
+    rgb(196, 214, 252) 1%,
+    rgba(187, 187, 187, 0) 70.9%
+  );
+}
 .hero h2 {
   font-family: "Poppins", serif;
   padding-top: 15px;
