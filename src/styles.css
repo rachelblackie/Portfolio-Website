@@ -22,12 +22,12 @@ p {
   padding-bottom: 15px;
 }
 .button {
-  background-color: rgba(187, 187, 187, 0);
+  background-color: white;
   padding: 15px 30px;
   border-radius: 4px;
 }
 .button:hover {
-  color: #d299c2;
+  background-color: rgba(187, 187, 187, 0);
 }
 .content-heading {
   text-align: center;
