@@ -22,7 +22,8 @@ p {
   padding-bottom: 15px;
 }
 .button {
-  background-color: white;
+  background-color: #212529;
+  color: white;
   padding: 15px 30px;
   border-radius: 4px;
 }
