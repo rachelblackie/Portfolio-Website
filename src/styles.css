@@ -87,7 +87,11 @@ img {
   display: flex;
   justify-content: space-evenly;
   font-size: 42px;
+  max-width: 200px;
 }
 .social-media-links a {
   color: var(--branding-color);
+}
+.social-media-links a:hover {
+  color: var(--accent-color);
 }
