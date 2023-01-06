@@ -122,3 +122,11 @@ img {
   margin-bottom: 50px;
   text-align: center;
 }
+.footer-email {
+  display: flex;
+  justify-content: center;
+}
+.footer-social-media {
+  display: flex;
+  justify-content: space-evenly;
+}
