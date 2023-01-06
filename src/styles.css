@@ -114,9 +114,11 @@ img {
 }
 .contact-heading {
   text-align: center;
+  font-style: italic;
 }
 .contact-heading-main {
   font-size: 48px;
   margin-top: 50px;
   margin-bottom: 50px;
+  text-align: center;
 }
