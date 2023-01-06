@@ -109,3 +109,6 @@ img {
   text-decoration: underline;
   color: var(--accent-color);
 }
+.contact-heading {
+  text-align: center;
+}
