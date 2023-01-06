@@ -126,9 +126,24 @@ img {
   display: flex;
   justify-content: center;
 }
+.footer-email a {
+  color: var(--branding-color);
+  text-decoration: none;
+}
+.footer-email a:hover {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
 .footer-social-media {
   display: flex;
   justify-content: space-evenly;
   font-size: 24px;
   max-width: 150px;
+  margin: 0 auto;
+}
+.footer-social-media a {
+  color: var(--branding-color);
+}
+.footer-social-media a:hover {
+  color: var(--accent-color);
 }
