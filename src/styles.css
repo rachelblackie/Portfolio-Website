@@ -122,6 +122,9 @@ img {
   margin-bottom: 50px;
   text-align: center;
 }
+.footer {
+  margin-top: 40px;
+}
 .footer-email {
   display: flex;
   justify-content: center;
