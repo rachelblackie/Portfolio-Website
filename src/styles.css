@@ -129,4 +129,6 @@ img {
 .footer-social-media {
   display: flex;
   justify-content: space-evenly;
+  font-size: 24px;
+  max-width: 150px;
 }
