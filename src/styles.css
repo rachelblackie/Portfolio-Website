@@ -83,3 +83,11 @@ img {
 .services-heading {
   padding-bottom: 10px;
 }
+.social-media-links {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 42px;
+}
+.social-media-links a {
+  color: var(--branding-color);
+}
