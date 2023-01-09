@@ -27,7 +27,7 @@ p {
     rgba(187, 187, 187, 0) 1%,
     rgb(196, 214, 252) 70.9%
   );
-  width: max-content;
+  margin: 0 auto;
 }
 .hero h2 {
   font-family: "Poppins", serif;
