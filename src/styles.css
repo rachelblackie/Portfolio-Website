@@ -136,6 +136,7 @@ img {
 .footer-email {
   display: flex;
   justify-content: center;
+  padding-top: 36px;
 }
 .footer-email a {
   color: var(--branding-color);
@@ -160,11 +161,4 @@ img {
 }
 hr {
   color: var(--branding-color);
-}
-.contact-page {
-  background: linear-gradient(
-    359.3deg,
-    rgba(187, 187, 187, 0) 1%,
-    rgb(196, 214, 252) 70.9%
-  );
 }
