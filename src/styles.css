@@ -169,3 +169,6 @@ img {
 hr {
   color: var(--branding-color);
 }
+ul {
+  text-align: right;
+}
