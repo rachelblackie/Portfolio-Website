@@ -92,6 +92,10 @@ img {
 .services-heading {
   padding-bottom: 10px;
 }
+.services-info {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
 .social-media-links {
   display: flex;
   justify-content: space-evenly;
