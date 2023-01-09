@@ -158,3 +158,6 @@ img {
 .footer-social-media a:hover {
   color: var(--accent-color);
 }
+hr {
+  color: var(--accent-color);
+}
