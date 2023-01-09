@@ -161,3 +161,10 @@ img {
 hr {
   color: var(--branding-color);
 }
+.contact-page {
+  background: linear-gradient(
+    359.3deg,
+    rgba(187, 187, 187, 0) 1%,
+    rgb(196, 214, 252) 70.9%
+  );
+}
