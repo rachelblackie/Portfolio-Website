@@ -56,7 +56,9 @@ p {
 .row {
   padding-top: 48px;
 }
-
+.homepage-content {
+  padding-bottom: 48px;
+}
 img {
   vertical-align: middle;
 }
