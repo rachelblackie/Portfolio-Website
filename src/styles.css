@@ -61,7 +61,7 @@ p {
 img {
   vertical-align: middle;
 }
-@media (max-width: 900px) {
+@media (max-width: 1000px) {
   h1 {
     font-size: 48px;
     line-height: 1.5;
