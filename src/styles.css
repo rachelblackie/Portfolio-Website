@@ -58,9 +58,6 @@ p {
   padding-bottom: 36px;
 }
 
-img {
-  vertical-align: middle;
-}
 @media (max-width: 1000px) {
   h1 {
     font-size: 70px;
@@ -82,6 +79,9 @@ img {
   }
   .hero {
     height: 1500px;
+  }
+  img {
+    display: flex;
   }
 }
 
