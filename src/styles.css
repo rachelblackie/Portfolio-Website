@@ -63,7 +63,7 @@ img {
 }
 @media (max-width: 576px) {
   h1 {
-    font-size: 48px;
+    font-size: 70px;
     line-height: 1.5;
   }
   h2,
@@ -75,6 +75,8 @@ img {
   }
   p {
     font-size: 24px;
+  }
+  .hero {
   }
 }
 
