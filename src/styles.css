@@ -96,7 +96,7 @@ img {
 .services-info {
   padding-top: 24px;
   padding-bottom: 24px;
-  vertical-align: middle;
+  margin-bottom: 0;
 }
 .social-media-links {
   display: flex;
