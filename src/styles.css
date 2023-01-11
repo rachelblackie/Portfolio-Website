@@ -81,10 +81,11 @@ p {
     height: 1500px;
   }
 
-  footer {
+  footer,
+  footer a {
     font-size: 48px;
   }
-  .navbar {
+  .navbar a {
     font: 36px;
   }
 }
