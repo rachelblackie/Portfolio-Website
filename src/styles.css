@@ -80,9 +80,9 @@ p {
   .hero {
     height: 1500px;
   }
-  img {
-    display: flex;
-    justify-content: center;
+
+  footer {
+    font-size: 36px;
   }
 }
 
