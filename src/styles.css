@@ -71,9 +71,9 @@ p {
   }
   .btn-branding {
     font-size: 36px;
-    margin-bottom: 36px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    margin: 0 auto;
     max-width: 300px;
   }
   p {
