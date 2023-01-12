@@ -91,11 +91,11 @@ p {
   footer a {
     font-size: 48px;
   }
-  .footer-social-media a,
-  .footer-social-media {
+  .footer-social-media a {
     font-size: 60px;
-    display: flex;
-    justify-content: space-between 24px;
+  }
+  .footer-social-media {
+    max-width: 500px;
   }
   .navbar-brand,
   .navbar-nav a {
