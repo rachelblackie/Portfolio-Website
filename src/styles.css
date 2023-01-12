@@ -200,4 +200,21 @@ ul {
     height: 36px;
     margin-bottom: 0;
   }
+  .services-icon {
+    font-size: 125px;
+  }
+  .contact-heading-main {
+    font-size: 100px;
+    margin-top: 200px;
+  }
+  .contact-heading {
+    font-size: 70px;
+  }
+  .email-address {
+    font-size: 60px;
+  }
+  .social-media-links {
+    font-size: 80px;
+    max-width: 400px;
+  }
 }
