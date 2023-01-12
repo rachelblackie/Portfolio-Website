@@ -69,9 +69,10 @@ p {
     font-size: 55px;
     text-align: center;
   }
-  button {
+  .btn-branding {
     font-size: 36px;
     margin-bottom: 36px;
+    line-height: 40px;
   }
   p {
     font-size: 36px;
