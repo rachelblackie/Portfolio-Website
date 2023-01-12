@@ -91,7 +91,7 @@ p {
   footer a {
     font-size: 48px;
   }
-  .footer-social-media {
+  .footer-social-media a {
     max-width: 500px;
     font-size: 60px;
   }
