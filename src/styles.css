@@ -85,7 +85,8 @@ p {
   footer a {
     font-size: 48px;
   }
-  .navbar a {
+  .navbar-brand,
+  .navbar-nav a {
     font: 36px;
   }
 }
