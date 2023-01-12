@@ -217,4 +217,7 @@ ul {
     font-size: 80px;
     max-width: 400px;
   }
+  .headshot {
+    margin: 0 auto;
+  }
 }
