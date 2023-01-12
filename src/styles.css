@@ -218,7 +218,7 @@ ul {
     max-width: 400px;
   }
   .headshot {
+    margin: 0 auto;
     display: flex;
-    justify-content: center;
   }
 }
