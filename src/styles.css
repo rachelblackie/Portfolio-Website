@@ -87,7 +87,7 @@ p {
   }
   .navbar-brand,
   .navbar-nav a {
-    font: 36px;
+    font-size: 36px;
   }
 }
 .services-icon {
