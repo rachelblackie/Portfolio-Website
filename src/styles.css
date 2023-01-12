@@ -89,6 +89,9 @@ p {
   .navbar-nav a {
     font-size: 36px;
   }
+  .navbar-toggler {
+    height: fit-content;
+  }
 }
 .services-icon {
   font-size: 42px;
