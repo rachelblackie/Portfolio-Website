@@ -219,5 +219,6 @@ ul {
   }
   .headshot {
     display: flex;
+    justify-content: center;
   }
 }
