@@ -73,7 +73,7 @@ p {
     font-size: 36px;
     margin-bottom: 36px;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     max-width: 300px;
   }
   p {
