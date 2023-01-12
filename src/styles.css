@@ -91,6 +91,9 @@ p {
   footer a {
     font-size: 48px;
   }
+  .footer-social-media {
+    max-width: 300px;
+  }
   .navbar-brand,
   .navbar-nav a {
     font-size: 36px;
