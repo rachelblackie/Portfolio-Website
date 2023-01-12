@@ -90,7 +90,7 @@ p {
     font-size: 36px;
   }
   .navbar-toggler {
-    height: fit-content;
+    height: 36px;
   }
 }
 .services-icon {
