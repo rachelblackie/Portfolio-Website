@@ -58,54 +58,6 @@ p {
   padding-bottom: 36px;
 }
 
-@media (max-width: 1000px) {
-  h1 {
-    font-size: 70px;
-    line-height: 1.5;
-    text-align: center;
-  }
-  h2,
-  h3 {
-    font-size: 55px;
-    text-align: center;
-  }
-  .btn-branding {
-    font-size: 36px;
-    display: flex;
-    justify-content: center;
-    margin: 0 auto;
-    max-width: 300px;
-  }
-  .crochet-photo {
-    margin-top: 36px;
-  }
-  p {
-    font-size: 36px;
-    text-align: center;
-  }
-  .hero {
-    height: 1500px;
-  }
-
-  footer,
-  footer a {
-    font-size: 48px;
-  }
-  .footer-social-media a {
-    font-size: 60px;
-  }
-  .footer-social-media {
-    max-width: 500px;
-  }
-  .navbar-brand,
-  .navbar-nav a {
-    font-size: 36px;
-  }
-  .navbar-toggler {
-    height: 36px;
-    margin-bottom: 0;
-  }
-}
 .services-icon {
   font-size: 42px;
 }
@@ -200,4 +152,52 @@ hr {
 }
 ul {
   text-align: right;
+}
+@media (max-width: 1000px) {
+  h1 {
+    font-size: 70px;
+    line-height: 1.5;
+    text-align: center;
+  }
+  h2,
+  h3 {
+    font-size: 55px;
+    text-align: center;
+  }
+  .btn-branding {
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 300px;
+  }
+  .crochet-photo {
+    margin-top: 36px;
+  }
+  p {
+    font-size: 36px;
+    text-align: center;
+  }
+  .hero {
+    height: 1500px;
+  }
+
+  footer,
+  footer a {
+    font-size: 48px;
+  }
+  .footer-social-media a {
+    font-size: 60px;
+  }
+  .footer-social-media {
+    max-width: 500px;
+  }
+  .navbar-brand,
+  .navbar-nav a {
+    font-size: 36px;
+  }
+  .navbar-toggler {
+    height: 36px;
+    margin-bottom: 0;
+  }
 }
