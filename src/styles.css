@@ -91,6 +91,7 @@ p {
   }
   .navbar-toggler {
     height: 36px;
+    margin-bottom: 0;
   }
 }
 .services-icon {
