@@ -74,6 +74,7 @@ p {
     margin-bottom: 36px;
     display: flex;
     justify-content: center;
+    max-width: 300px;
   }
   p {
     font-size: 36px;
