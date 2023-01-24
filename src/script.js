@@ -3,5 +3,5 @@ function changeLanguage() {
   spanishSubheading.innerHTML =
     "Programadora front-end, profesora de inglés, y correctora/editora";
 }
-let spanishButton = document.querySelector("#spanish-button");
+let spanishButton = document.querySelector("#spanish");
 spanishButton.addEventListener("click", changeLanguage);
