@@ -6,7 +6,7 @@ function changeToSpanish(event) {
   spanishWorkButton.innerHTML = "Trabaja conmigo";
   let spanishContentHeading = document.querySelector("#content-heading");
   spanishContentHeading.innerHTML = "Proyectos Recientes";
-  let spanishCrochetWebsite = document.querySelector("#crochet-site");
+  let spanishCrochetWebsite = document.querySelector("#crochet-website");
   spanishCrochetWebsite.innerHTML = "Sitio web de crochet";
   let spanishCrochetParagraph = document.querySelector("#crochet-paragraph");
   spanishCrochetParagraph.innerHTML =
